@@ -1,0 +1,107 @@
+# Project exclude paths
+/.gradle/
+/Reactive Advanced/Context/task1/build/
+/Reactive Advanced/Context/task2/build/
+/Reactive Advanced/Context/task3/build/
+/Reactive Advanced/Control Backpressure/task1/build/
+/Reactive Advanced/Control Backpressure/task2/build/
+/Reactive Advanced/Control Backpressure/task3/build/
+/Reactive Advanced/Control Backpressure/task4/build/
+/Reactive Advanced/Control Backpressure/task5/build/
+/Reactive Advanced/Debugging/task1/build/
+/Reactive Advanced/Debugging/task2/build/
+/Reactive Advanced/Debugging/task3/build/
+/Reactive Advanced/Hot and Sharable/task1/build/
+/Reactive Advanced/Hot and Sharable/task2/build/
+/Reactive Advanced/Hot and Sharable/task3/build/
+/Reactive Advanced/Hot and Sharable/task4/build/
+/Reactive Advanced/Multiple Sources/task1/build/
+/Reactive Advanced/Multiple Sources/task2/build/
+/Reactive Advanced/Multiple Sources/task3/build/
+/Reactive Advanced/Multiple Sources/task4/build/
+/Reactive Advanced/Multiple Sources/task5/build/
+/Reactive Advanced/Multiple Sources/task6/build/
+/Reactive Advanced/Multiple Sources/task7/build/
+/Reactive Advanced/Multiple Sources/task8/build/
+/Reactive Advanced/Multiple Sources/task9/build/
+/Reactive Advanced/Multiple Sources/task9/out/
+/Reactive Advanced/Multithreading Operators/task1/build/
+/Reactive Advanced/Multithreading Operators/task2/build/
+/Reactive Advanced/Multithreading Operators/task3/build/
+/Reactive Advanced/Multithreading Operators/task4/build/
+/Reactive Advanced/Multithreading Operators/task5/build/
+/Reactive Advanced/Resilience/task1/build/
+/Reactive Advanced/Resilience/task2/build/
+/Reactive Advanced/Resilience/task3/build/
+/Reactive Advanced/Resilience/task4/build/
+/Reactive Advanced/Resilience/task5/build/
+/Reactive Advanced/Resilience/task6/build/
+/Reactive Advanced/Resilience/task7/build/
+/Reactive Advanced/Resilience/task8/build/
+/Reactive Advanced/Resilience/task9/build/
+/Reactive Essentials/Async Publishers/CreateSequence/build/
+/Reactive Essentials/Async Publishers/CreateTempFile/build/
+/Reactive Essentials/Async Publishers/FibonacciSequence/build/
+/Reactive Essentials/Async Publishers/GenerateUUID/build/
+/Reactive Essentials/Async Publishers/PropertiesSource/build/
+/Reactive Essentials/Async Publishers/ValidateDuration/build/
+/Reactive Essentials/Common Operators/task1/build/
+/Reactive Essentials/Common Operators/task2/build/
+/Reactive Essentials/Common Operators/task3/build/
+/Reactive Essentials/Common Operators/task4/build/
+/Reactive Essentials/Common Operators/task5/build/
+/Reactive Essentials/Common Operators/task6/build/
+/Reactive Essentials/Common Operators/task7/build/
+/Reactive Essentials/Common Operators/task8/build/
+/Reactive Essentials/Common Operators/task9/build/
+/Reactive Essentials/Common Operators/task10/build/
+/Reactive Essentials/Common Operators/task11/build/
+/Reactive Essentials/Testing/task1/build/
+/Reactive Essentials/Testing/task2/build/
+/Reactive Essentials/Testing/task3/build/
+/Reactive In Action/Common Problems/task1/build/
+/Reactive In Action/Common Problems/task2/build/
+/Reactive In Action/Common Problems/task3/build/
+/Reactive In Action/Common Problems/task3/out/
+/Reactive In Action/Common Problems/task3/out/production/classes/
+/Reactive In Action/Common Problems/task3/out/test/classes/
+/Reactive In Action/Common Problems/task4/build/
+/Reactive In Action/Common Problems/task4/out/
+/Reactive In Action/Common Problems/task4/out/production/classes/
+/Reactive In Action/Common Problems/task4/out/test/classes/
+/Reactive In Action/Common Problems/task5/build/
+/Reactive In Action/Common Problems/task5/out/
+/Reactive In Action/Common Problems/task5/out/production/classes/
+/Reactive In Action/Common Problems/task5/out/test/classes/
+/Reactive In Action/Crypto Tracker/application/build/
+/Reactive In Action/Crypto Tracker/application/out/
+/Reactive In Action/Crypto Tracker/application/out/production/classes/
+/Reactive In Action/Crypto Tracker/application/out/test/classes/
+/Reactive In Action/Crypto Tracker/common/build/
+/Reactive In Action/Crypto Tracker/common/out/
+/Reactive In Action/Crypto Tracker/common/out/production/classes/
+/Reactive In Action/Crypto Tracker/crypto-service/build/
+/Reactive In Action/Crypto Tracker/crypto-service/out/
+/Reactive In Action/Crypto Tracker/crypto-service/out/production/classes/
+/Reactive In Action/Crypto Tracker/crypto-service/out/test/classes/
+/Reactive In Action/Crypto Tracker/crypto-service-idl/build/
+/Reactive In Action/Crypto Tracker/crypto-service-idl/out/
+/Reactive In Action/Crypto Tracker/crypto-service-idl/out/production/classes/
+/Reactive In Action/Crypto Tracker/price-service/build/
+/Reactive In Action/Crypto Tracker/price-service/out/
+/Reactive In Action/Crypto Tracker/price-service/out/production/classes/
+/Reactive In Action/Crypto Tracker/price-service/out/test/classes/
+/Reactive In Action/Crypto Tracker/price-service-idl/build/
+/Reactive In Action/Crypto Tracker/price-service-idl/out/
+/Reactive In Action/Crypto Tracker/price-service-idl/out/production/classes/
+/Reactive In Action/Crypto Tracker/trade-service/build/
+/Reactive In Action/Crypto Tracker/trade-service/out/
+/Reactive In Action/Crypto Tracker/trade-service/out/production/classes/
+/Reactive In Action/Crypto Tracker/trade-service/out/test/classes/
+/Reactive In Action/Crypto Tracker/trade-service-idl/build/
+/Reactive In Action/Crypto Tracker/trade-service-idl/out/
+/Reactive In Action/Crypto Tracker/trade-service-idl/out/production/classes/
+/Reactive In Action/Crypto Tracker/trade-service-idl/out/test/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/
